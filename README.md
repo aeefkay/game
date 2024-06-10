@@ -1,4 +1,4 @@
-                                                     *Installation instructions*
+                                              *Installation instructions*
 
 1. Download, extract and copy the contents of the CS2 folder (autoexec.cfg and AFK Folder).
 
