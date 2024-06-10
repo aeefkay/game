@@ -1,12 +1,3 @@
-
-|		   ___             ___       __   _  __            _  _  "	    |
-|		  /   \    ___    | __|     / _| | |/ /   __ _    | || | "	    |
-|		  | - |   / -_)   | _|     |  _| | ' <   / _` |    \_, | "	    |
-|		  |_|_|   \___|   |___|   _|_|_  |_|\_\  \__,_|   _|__/  "	    |
-|		_|"""""|_|"""""|_|"""""|_|"""""|_|"""""|_|"""""|_| """"| "	    |
-|		`-0-0-'"`-0-0-'"`-0-0-'"`-0-0-'"`-0-0-'"`-0-0-'"`-0-0-' "	      |
-
-
 # CS2 Autoexec Installation Guide
 
 Enhance your Counter-Strike 2 experience with this pre-made autoexec configuration, designed to optimize your settings and provide useful features like AFK management. Follow these simple steps to install and customize the autoexec:
@@ -67,26 +58,3 @@ If your keyboard doesn't have a tilde (~) key or you prefer a different key for 
 
 **You're all set!** Your CS2 settings are now optimized with the autoexec. Enjoy your improved gameplay!
 
-|                                                                                 |
-|                                                                                 |
-|        ______  _     _ __   __      ______  _____ __   _ ______  _______        |
-|        |_____] |     |   \_/        |_____]   |   | \  | |     \ |______        |
-|        |_____] |_____|    |         |_____] __|__ |  \_| |_____/ ______|        |
-|                                                                                 |
-|                                                                                 |
-|             +-----------------------------------------------------+             |
-|             |     NUM     |      /      |      *      |     -     |             |
-|             |     PAD     |   Grenade   |  Flashbang  |   Smoke   |             |
-|             |-------------|-------------|-------------|-----------|             |
-|             |      7      |      8      |      9      |     +     |             |
-|             |   Rifle 1   |   Rifle 2   |   Rifle 3   |           |             |
-|             |-------------|-------------|-------------|Inc/Molotov|             |
-|             |      4      |      5      |      6      |           |             |
-|             |  Mid-Tier 1 |  Mid-Tier 2 |  Mid-Tier 3 |           |             |
-|             |-------------|-------------|-------------|-----------|             |
-|             |      1      |      2      |      3      |           |             |
-|             |   Pistol 2  |   Pistol 3  |   Pistol 4  |   ENTER   |             |
-|             |-------------|-------------|-------------|           |             |
-|             |             0             |      .      | DefuseKit |             |
-|             |      Kevlar + Helmet      | Kevlar Vest |           |             |
-|             +-----------------------------------------------------+             |
