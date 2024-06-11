@@ -6,7 +6,9 @@ Enhance your Counter-Strike 2 experience with this pre-made autoexec configurati
 
 1. Navigate to the GitHub repository containing the autoexec files.
 2. Click on the green "Code" button and select "Download ZIP".
-3. Extract the downloaded ZIP file to a location of your choice. This will create a folder containing the necessary files.
+3. Extract the downloaded ZIP file to a location of your choice. This will create a folder containing the necessary files. For CS2 you want the contents inside the CS2 folder.
+   
+**Note:** CSGO and my autoexec for it is now deprciated and is only here for legacy reasons.
    
 **📂 Step 1: Locate Your CS2 CFG Folder 📂**
 
@@ -66,8 +68,8 @@ If your keyboard doesn't have a tilde (~) key or you prefer a different key for 
 
 ## CS2 Keybind Guide
 
-This guide provides a comprehensive list of keybinds used in the provided autoexec configuration. You can customize these to your preferences within the `autoexec.cfg` file.
-
+A comprehensive list of keybinds used in the provided autoexec configuration. You can customize these to your preferences within the `binds.cfg` file in the `AFK` folder.
+**default mouse sens is 1.0**
 **Weapon & Equipment Binds**
 
 | Key             | Action                                            |
