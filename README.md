@@ -2,6 +2,12 @@
 
 Enhance your Counter-Strike 2 experience with this pre-made autoexec configuration, designed to optimize your settings and provide useful features like script management. Follow these simple steps to install and setup the autoexec:
 
+**📂 Step 0: Downloading and Extracting the Files 📂**
+
+1. Navigate to the GitHub repository containing the autoexec files.
+2. Click on the green "Code" button and select "Download ZIP".
+3. Extract the downloaded ZIP file to a location of your choice. This will create a folder containing the necessary files.
+   
 **📂 Step 1: Locate Your CS2 CFG Folder 📂**
 
 The CS2 CFG folder is where you'll place the autoexec files. You can find it using either of these methods:
