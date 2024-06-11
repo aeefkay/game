@@ -1,6 +1,6 @@
 # CS2 Autoexec Installation Guide
 
-Enhance your Counter-Strike 2 experience with this pre-made autoexec configuration, designed to optimize your settings and provide useful features like AFK management. Follow these simple steps to install and customize the autoexec:
+Enhance your Counter-Strike 2 experience with this pre-made autoexec configuration, designed to optimize your settings and provide useful features like script management. Follow these simple steps to install and setup the autoexec:
 
 **📂 Step 1: Locate Your CS2 CFG Folder 📂**
 
