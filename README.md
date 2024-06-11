@@ -9,7 +9,7 @@ The CS2 CFG folder is where you'll place the autoexec files. You can find it usi
 * **Default Location:**
   ```
   Steam\steamapps\common\Counter-Strike Global Offensive\game\csgo\cfg
-  ```
+.  ```
 * **Through Steam:**
   1. Open your Steam Library.
   2. Right-click on Counter-Strike 2.
@@ -58,3 +58,85 @@ If your keyboard doesn't have a tilde (~) key or you prefer a different key for 
 
 **You're all set!** Your CS2 settings are now optimized with the autoexec. Enjoy your improved gameplay!
 
+## CS2 Keybind Guide
+
+This guide provides a comprehensive list of keybinds used in the provided autoexec configuration. You can customize these to your preferences within the `autoexec.cfg` file.
+
+**Weapon & Equipment Binds**
+
+| Key             | Action                                            |
+|----------------|---------------------------------------------------|
+| 1 / Mouse Wheel Up | Equip primary weapon                                            |
+| 2 / Mouse Wheel Down | Equip secondary weapon (pistols)                                |
+| 3               | Equip knife, Zeus, or hands (Danger Zone)                       |
+| 4 / X           | Equip incendiary/Molotov grenade                                  |
+| 5               | Equip C4 explosive or Medi-Shot                                  |
+| C               | Equip high explosive grenade or snowball                         |
+| F               | Equip flashbang                                                  |
+| Q               | Equip smoke grenade                                               |
+| -               | Equip Zeus (buy menu)                                              |
+| =               | Equip Medi-Shot (buy menu)                                         |
+
+**Movement & View Binds**
+
+| Key             | Action                                                            |
+|----------------|-------------------------------------------------------------------|
+| A               | Strafe left                                                     |
+| D               | Strafe right                                                    |
+| S               | Move backward                                                   |
+| W               | Move forward                                                    |
+| Shift           | Walk                                                           |
+| Space           | Jump (hold for high jump with ExoJump Boots in Danger Zone)      |
+| Ctrl            | Duck/Crouch                                                     |
+| Mouse X/Y       | Control view (yaw/pitch)                                         |
+| Arrow Keys       | Control movement/view                                             |
+
+**Communication & Utility Binds**
+
+| Key             | Action                                                            |
+|----------------|-------------------------------------------------------------------|
+| U               | Team chat                                                       |
+| Y               | All chat                                                        |
+| Z               | Radial radio menu                                                |
+| B               | Open buy menu/tablet delivery (Danger Zone)                     |
+| E               | Use (with beep sound)                                              |
+| G               | Drop weapon                                                     |
+| H               | Open spray menu                                                  |
+| Mouse3          | Player ping                                                    |
+| Mouse4          | Voice chat (hold to speak)                                        |
+| N               | Jumpthrow grenade                                               |
+| P               | Toggle X-ray in spectator mode                                  |
+| Mouse5          | Quick switch to knife/Zeus                                        |
+| R               | Reload                                                          |
+| Tab             | Show scoreboard/tablet (Danger Zone)                            |
+
+**Function Key & Other Binds**
+
+| Key             | Action                                                            |
+|----------------|-------------------------------------------------------------------|
+| ` (tilde)       | Toggle console                                                   |
+| ,               | Execute autoexec.cfg                                             |
+| .               | Execute config.cfg                                              |
+| F4              | Toggle AFK auto-walk                                            |
+| F5              | Toggle clutch mode (mute teammates)                             |
+| F6              | Toggle enemy team communication (mute)                          |
+| F7              | Toggle chat messages (mute)                                     |
+| F8              | Toggle radio messages                                            |
+| F9              | Execute "fixer" script                                          |
+| PgUp            | Execute default audio settings                                   |
+| PgDn            | Mute sound                                                      |
+
+
+**Numpad Binds (Buy Menu)**
+
+
+| Key             | Action                                                            |
+|----------------|-------------------------------------------------------------------|
+| KP_Divide       | Buy HE grenade                                                 |
+| KP_Multiply     | Buy flashbang                                                   |
+| KP_Minus        | Buy smoke grenade                                                |
+| KP_Plus         | Buy incendiary/Molotov grenade                                   |
+| KP_Enter        | Buy defuse kit                                                  |
+| KP_Del          | Buy kevlar vest                                                 |
+| KP_0            | Buy kevlar + helmet                                              |
+| KP_1-9          | Buy various weapons/equipment                                    |
